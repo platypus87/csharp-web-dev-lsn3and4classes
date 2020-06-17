@@ -1,0 +1,13 @@
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.exe
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.deps.json
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.runtimeconfig.json
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.runtimeconfig.dev.json
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.dll
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.pdb
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.AssemblyInfoInputs.cache
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.AssemblyInfo.cs
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.dll
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.pdb
+C:\Users\Matthew\Source\Repos\csharp-web-dev-lsn3and4classes\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\csharp-web-dev-lsn3and4classes\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.csprojAssemblyReference.cache
